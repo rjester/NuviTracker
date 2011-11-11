@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NuviTracker", "NuviTracker\NuviTracker.csproj", "{DCF9CEB1-584B-45C3-82E0-B0AA344BAFAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NuviTracker.Tests", "NuviTracker.Tests\NuviTracker.Tests.csproj", "{6B46B569-C753-458E-9E09-7C82607BB3E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCF9CEB1-584B-45C3-82E0-B0AA344BAFAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCF9CEB1-584B-45C3-82E0-B0AA344BAFAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCF9CEB1-584B-45C3-82E0-B0AA344BAFAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCF9CEB1-584B-45C3-82E0-B0AA344BAFAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B46B569-C753-458E-9E09-7C82607BB3E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B46B569-C753-458E-9E09-7C82607BB3E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B46B569-C753-458E-9E09-7C82607BB3E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B46B569-C753-458E-9E09-7C82607BB3E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
